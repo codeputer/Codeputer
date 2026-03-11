@@ -96,7 +96,7 @@ That includes building systems where AI is grounded in business context, connect
 
 ## Writing and Thought Leadership
 
-I write about architecture, AI, business design, customer data, and long-term competitive advantage. My work includes articles, platform concepts, and the book The Empowered Customer, which explores ethical data models and customer-controlled value exchange.
+I write about architecture, AI, business design, customer data, and long-term competitive advantage. My work includes articles, platform concepts, and the book The Empowered Customer, which explores ethical data models and customer-controlled value exchange.  
 Blog: [The Business Advantage.blog](https://TheBusinessAdvantage.Blog)  
 
 ## Contact
