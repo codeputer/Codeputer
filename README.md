@@ -100,6 +100,6 @@ I write about architecture, AI, business design, customer data, and long-term co
 
 ## Contact
 
-[Richard@PhoenixBusSolutions.com](mailto:Richard@PhoenixBusSolutions.com)
-LinkedIn: [https://linkedin.reukema.ca](My Linkedin Profile)
-GitHub: [https://github.com/codeputer](https://github.com/codeputer)
+[Richard@PhoenixBusSolutions.com](mailto:Richard@PhoenixBusSolutions.com)  
+LinkedIn: [https://linkedin.reukema.ca](My Linkedin Profile)  
+GitHub: [https://github.com/codeputer](https://github.com/codeputer)  
