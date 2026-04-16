@@ -4,7 +4,7 @@ Cloud Solutions Architect, AI Strategist, and hands-on builder focused on C#, Az
 
 I design and build software systems that solve business problems, not technology problems in search of a use case. My work spans cloud architecture, event-driven platforms, AI-enabled applications, secure retrieval workflows, and stakeholder-led solution design. I work across discovery, architecture, implementation, and delivery.
 
-## What I Do
+## My Why
 
 I help organizations move from ambiguity to working systems.
 
