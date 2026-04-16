@@ -27,7 +27,7 @@ If you are here to assess my work, start with these areas:
 
 ## Selected Work
 
-### SignalWeaver and Eventryx
+### SignalWeaver
 
 A platform concept and working architecture for publishing, routing, and acting on structured business events. The goal is to turn operational activity into signals that systems, partners, and AI agents can use in near real time.
 
@@ -41,7 +41,7 @@ Focus areas include:
 
 ### AI-Native SaaS Products
 
-Built AI-focused products through Phoenix Customer Insights, including AlignIQ and ContentTraker. These products applied secure retrieval patterns, domain-aware design, and guided AI interaction to real business problems.
+Built AI-focused products through Phoenix Customer Insights, including AlignIQ and ContentTraker.com. These products applied secure retrieval patterns, domain-aware design, and guided AI interaction to real business problems.
 
 Typical work included:
 
