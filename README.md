@@ -1,106 +1,183 @@
 # Richard Reukema
 
-Cloud Solutions Architect, AI Strategist, and hands-on builder focused on C#, Azure, distributed systems, and production AI.
+Senior Software Architect building AI-enabled business applications with Codex, ContentTraker, C#, and Azure.
 
-I design and build software systems that solve business problems, not technology problems in search of a use case. My work spans cloud architecture, event-driven platforms, AI-enabled applications, secure retrieval workflows, and stakeholder-led solution design. I work across discovery, architecture, implementation, and delivery.
+I have 40 years of software development experience across desktop, web, SaaS, cloud, DevOps, distributed systems, and AI-enabled application design. I am now leaning into Codex as the primary execution layer for building applications faster, with stronger context, clearer traceability, and less waste in the delivery process.
 
-## My Why
+After a year of softening my experience to avoid ageism, I see it differently now. The age of my body is not the age of my thinking. My experience reflects the number of software cycles I have lived through. It does not limit how fast I learn, how quickly I adapt, or how aggressively I can apply a new development model.
 
-I help organizations move from ambiguity to working systems.
+As an independent architect, I have the freedom to work at the front edge of AI adoption without organizational friction slowing the pace or limiting the impact. AI-driven competition is moving at supersonic speed. The choice to change, or not change, will show consequences quickly.
 
-That includes:
+My experience gives me a clear view of the problem. Many companies already struggle with software delivery, technical debt, deferred maintenance, complex systems, and the cost of keeping applications alive. Codex and agent-assisted development change the economics of software. My focus is to apply that change now, while the market is still being reshaped.
 
-* Leading discovery with business and technical stakeholders
-* Translating business needs into practical architecture
-* Writing production code in C# and related Microsoft technologies
-* Designing AI-enabled systems, including secure RAG pipelines and custom copilots
-* Building cloud-native platforms on Azure with a strong focus on reliability, scale, and operational clarity
+## Folding Time: The AI Software Factory Model
 
-## What to Review First
+![Folding Time: The AI Software Factory Model](./assets/folding-time-ai-software-factory-model.png)
 
-If you are here to assess my work, start with these areas:
+This model shows how I think about AI-enabled application design:
 
-* Event-driven platform and integration architecture work under the Eventryx and SignalWeaver concepts
-* AI-native SaaS product work, including AlignIQ and ContentTraker
-* Cloud modernization and architecture leadership across enterprise and founder-led environments
-* Writing and thought leadership on AI, architecture, customer data, and business advantage
+* BackTheApp captures funded application demand.
+* AISoftwareFactory.cloud shapes narrative into governed, testable, deployable software.
+* Host.BackTheApp.software delivers finished cloud applications.
+* ContentTraker preserves the context, rationale, and traceability behind the work.
+
+## Current Direction
+
+I am building a set of services that support fast application delivery for founders, teams, and senior architects.
+
+The model is simple:
+
+* BackTheApp captures application demand from individuals and organizations.
+* ContentTraker preserves business intent, project knowledge, domain language, design rationale, and implementation history.
+* Codex applies that knowledge inside the codebase to build, refactor, test, and extend applications.
+* Azure provides the production platform for hosting, identity, storage, integration, and AI services.
+
+The goal is to help one senior architect guide multiple software builds without losing context between projects.
+
+## Why Codex Matters
+
+Codex changes the delivery model for experienced builders.
+
+For me, Codex is not a shortcut around architecture. It is the execution surface for applying architecture faster. The value comes from pairing senior judgment with agent-assisted implementation.
+
+I use Codex to:
+
+* Move from business description to working application structure.
+* Generate and revise C# and .NET code.
+* Refactor services while preserving design intent.
+* Explore implementation paths inside real repositories.
+* Switch across projects while retaining context.
+* Turn architectural direction into tested implementation steps.
+
+## ContentTraker
+
+ContentTraker is the knowledge and control plane for agentic software development.
+
+It captures:
+
+* Business intent.
+* Domain language.
+* Workspace and project knowledge.
+* Threads, turns, decisions, and rationale.
+* Implementation history.
+* Traceability between business goals and code changes.
+
+The purpose is to keep AI-assisted development grounded. Codex performs the work inside the codebase. ContentTraker preserves the why behind the work.
+
+## BackTheApp.software
+
+BackTheApp is the intake channel for software demand.
+
+It gives individuals and organizations a way to describe applications they want built, explain the value they see, and express support for the idea. The long-term goal is to connect market demand directly to an AI-assisted software factory.
+
+## AI Software Factory.cloud
+
+The AI Software Factory is the operating model that connects the pieces.
+
+* BackTheApp captures demand.
+* ContentTraker organizes knowledge and context.
+* Codex helps implement the software.
+* Azure hosts and operates the applications.
+* Public build content shares the learning journey.
+
+This model is designed to let a senior architect move faster across multiple services while keeping the architecture coherent.
 
 ## Selected Work
 
+### ContentTraker
+
+A knowledge control plane for organizing business intent, workspace knowledge, projects, threads, decisions, and implementation context for AI-assisted software development.
+
+Focus areas:
+
+* Knowledge capture.
+* Project traceability.
+* Domain language.
+* Agent context.
+* Codex-assisted implementation.
+
+### BackTheApp
+
+An application intake platform for capturing software ideas from individuals and organizations, then feeding viable demand into an AI-assisted development process.
+
+Focus areas:
+
+* Business intent capture.
+* Application demand signals.
+* Subscription interest.
+* Product prioritization.
+* Founder-led SaaS delivery.
+
 ### SignalWeaver
 
-A platform concept and working architecture for publishing, routing, and acting on structured business events. The goal is to turn operational activity into signals that systems, partners, and AI agents can use in near real time.
+An event publishing and subscription platform concept focused on structured business events, authorized subscriptions, and externally hosted downstream processing.
 
-Focus areas include:
+Focus areas:
 
-* Event-driven architecture
-* CloudEvents-based integration
-* Publisher and subscriber patterns
-* Operational signal intelligence
-* AI-assisted orchestration
-
-### AI-Native SaaS Products
-
-Built AI-focused products through Phoenix Customer Insights, including AlignIQ and ContentTraker.com. These products applied secure retrieval patterns, domain-aware design, and guided AI interaction to real business problems.
-
-Typical work included:
-
-* Product definition through stakeholder discovery
-* Hands-on coding in C# and JavaScript
-* Secure Azure-hosted backends
-* Retrieval-augmented workflows
-* Copilot-style interaction patterns
+* Event-driven architecture.
+* CloudEvents-based integration.
+* Publisher and subscriber patterns.
+* Event definitions.
+* External processing boundaries.
 
 ### GFS Connect
 
-Designed a cloud-based monitoring platform for IoT-enabled fire suppression systems. The platform supported telemetry ingestion, monitoring, alerting, and operational visibility for field devices transmitting at high cadence.
+A cloud-connected monitoring platform for IoT-enabled fire suppression systems.
 
-Technology and delivery focus:
+Focus areas:
 
-* Azure IoT Hub
-* Event Grid
-* Service Bus
-* SQL and App Service
-* Blazor-based monitoring interface
-* Alerting workflows using communication services
-
-### Enterprise Architecture and Modernization
-
-Led architecture assessments, modernization reviews, and integration planning in enterprise settings, including TELUS Health and TC Energy. This work involved evaluating existing systems, identifying delivery risk, shaping modernization paths, and helping teams move from assessment into execution.
-
-## How I Work
-
-My approach starts with the problem space.
-
-I work directly with stakeholders to clarify goals, constraints, risks, and expected outcomes. From there, I shape the solution, validate the approach, and move into implementation. I am comfortable operating at architecture level and contributing hands-on code when the work needs it.
-
-This mix of business framing and technical delivery has been a constant part of my work across consulting, enterprise architecture, SaaS product development, and platform design.
+* Azure IoT Hub.
+* Event Grid.
+* Service Bus.
+* Device telemetry.
+* Blazor monitoring.
+* Operational alerting.
 
 ## Technology Focus
 
-* C# and .NET
-* Microsoft Azure
-* Blazor and ASP.NET Core
-* Event-driven systems
-* Distributed application design
-* Azure OpenAI and AI-enabled application patterns
-* Retrieval-augmented generation
-* Cloud-native integration
-* Domain-driven design
+* C# and .NET.
+* Codex.
+* Azure.
+* Blazor and ASP.NET Core.
+* Event-driven systems.
+* Distributed application design.
+* Azure OpenAI and Foundry IQ.
+* Retrieval-augmented generation.
+* Domain-driven design.
+* Agentic development workflows.
 
-## Current Focus
+## Public Learning
 
-My current focus is on practical AI and event-driven systems.
+I am sharing my Codex learning journey in public through short-form videos, walk-and-talk updates, and build-in-public content. The focus is practical adoption from the perspective of a senior architect with decades of delivery experience.
 
-That includes building systems where AI is grounded in business context, connected to reliable workflows, and designed for production use rather than demo value. I am particularly interested in the intersection of architecture, operational telemetry, business events, and AI-assisted decision support.
+The message is simple:
+
+Codex is not only for new developers. It changes what experienced architects can deliver when business context, architecture, and codebase are connected.
+
+## How I Work
+
+I start with the business problem, then shape the architecture, implementation path, and operating model around it.
+
+My work combines:
+
+* Stakeholder discovery.
+* Architecture definition.
+* Hands-on C# implementation.
+* Cloud-native delivery.
+* AI-assisted development.
+* Production-focused design.
+* Business model thinking.
 
 ## Writing and Thought Leadership
 
-I write about architecture, AI, business design, customer data, and long-term competitive advantage. My work includes articles, platform concepts, and the book The Empowered Customer, which explores ethical data models and customer-controlled value exchange.  
-Blog: [The Business Advantage.blog](https://TheBusinessAdvantage.Blog)  
+I write about architecture, AI-assisted software development, business design, customer data, and long-term competitive advantage.
+
+Blog: TheBusinessAdvantage.blog
 
 ## Contact
 
-[Richard@PhoenixBusSolutions.com](mailto:Richard@PhoenixBusSolutions.com)  
-LinkedIn: [My Linkedin Profile](https://linkedin.reukema.ca)  
-GitHub: [My Github Profile](https://github.com/codeputer)  
+Email: [Richard@PhoenixBusSolutions.com](mailto:Richard@PhoenixBusSolutions.com)
+
+LinkedIn: linkedin.reukema.ca
+
+GitHub: github.com/codeputer
