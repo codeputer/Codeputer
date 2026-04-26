@@ -12,7 +12,7 @@ My experience gives me a clear view of the problem. Many companies already strug
 
 ## Folding Time: The AI Software Factory Model
 
-https://github.com/codeputer/Codeputer/blob/main/folding-time-ai-software-factory-model.png
+![Folding Time: The AI Software Factory Model](./folding-time-ai-software-factory-model.png)
 
 This model shows how I think about AI-enabled application design:
 
