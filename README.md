@@ -12,8 +12,6 @@ My experience gives me a clear view of the problem. Many companies already strug
 
 ## Folding Time: The AI Software Factory Model
 
-![Folding Time: The AI Software Factory Model](./assets/folding-time-ai-software-factory-model.png)
-
 This model shows how I think about AI-enabled application design:
 
 * BackTheApp captures funded application demand.
